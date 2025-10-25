@@ -1,0 +1,7 @@
+sentence-transformers>=2.2.2
+transformers>=4.40.0
+torch>=2.2.0
+faiss-cpu>=1.7.4
+numpy>=1.24.0
+gradio>=3.50.0
+PyPDF2>=3.0.0
